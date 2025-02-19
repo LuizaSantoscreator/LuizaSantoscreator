@@ -1,6 +1,6 @@
 # Luiza Santos Gonçalves
 
-Eu tenho dezenove anos. Sou formada em técnico em administração, e agora faço o técnico em desenvolvimento de sistemas pelo Senai, juntamente com a empresa Bosch, aonde eu trabalho atualmente. Sou nova na área de desenvolvimento, mas quero muito me desenvolver em todas as áreas, porém pretendo me especializar em Inteligência Artificial. 
+Eu tenho 19 anos. Sou formada em técnico em administração, e agora faço o técnico em desenvolvimento de sistemas pelo Senai, juntamente com a empresa Bosch, aonde eu trabalho atualmente. Sou nova na área de desenvolvimento, mas quero muito me desenvolver em todas as áreas, porém pretendo me especializar em Inteligência Artificial. 
 
 ## Competências:
 
